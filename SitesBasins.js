@@ -12,7 +12,7 @@ var basins_sites=[
 {name:"Priest Rapids Dam",sites:["GOOS2I","PRA","PRH","PRDTAL","RSH","POTHOL","RICHIS"]},
 {name:"Upper Yakima River",sites:["ESJ","CLE","UMT","JCJ","NFT","LMT","SWK","TAN","CFJ","LMC","RZF","ROZ"]},
 {name:"Lower Yakima River",sites:["WPJ","SSJ","SUN","TOP","SAT","PRJ","PRO","Y1J"]},
-{name:"Imnaha River",sites:["CZY","IR5","IMNAHW","IML","IR4","IMNAHR","IR3","BSC","CMP","IR2","IR1","IMNTRP","IMJ","COC"]},
+{name:"Imnaha River",sites:["CZY","IR5","IMNAHW","IML","IR4","IMNAHR","IR3","BSC","CMP","HORS3C","IR2","IR1","IMNTRP","IMJ","COC"]},
 {name:"Upper Snake",sites:["SNAKE4","PLAP","CJRAP"]},
 {name:"Upper Salmon River",sites:["ALTULC","STL","SAWT","SAWTRP","RLCTRP","VC1","VC2","YANKFK","CEY","YANKWF","YFK","SALEFT"]},
 {name:"Mid Salmon/Pahsimeroi",sites:["PAHH","PAHTRP","USI","USE","CHS","CHN","CRC","SALR3"]},
